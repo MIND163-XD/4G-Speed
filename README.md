@@ -21,7 +21,7 @@ $ pip2 install bs4
 
 $ rm -rf 4G-Speed
 
-$ git clone https://github.com/SABBIR404-CYBER/4G-Speed
+$ git clone https://github.com/MIND163-XD/4G-Speed
 
 
 # RUN SCRIPT
